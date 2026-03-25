@@ -7,3 +7,4 @@ A modern, single-page portfolio for Pratyaksh Singh highlighting education, expe
 2. Replace the placeholder photo at `assets/profile-placeholder.svg` with your professional picture to update the hero section.
 
 No build steps or external tooling required.
+commit
